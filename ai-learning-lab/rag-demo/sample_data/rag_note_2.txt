@@ -1,0 +1,1 @@
+Common steps: chunk documents, generate embeddings, index in a vector store (e.g., FAISS), retrieve top-k chunks for a query, and compose an answer using the retrieved context.

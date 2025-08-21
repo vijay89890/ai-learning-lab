@@ -1,0 +1,16 @@
+# Core
+ipykernel
+jupyter
+python-dotenv
+
+# LLM / Embeddings / RAG
+openai>=1.40.0
+tiktoken
+faiss-cpu
+sentence-transformers
+numpy
+pandas
+
+# Optional: simple UI later
+streamlit
+gradio

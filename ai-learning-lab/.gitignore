@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data/artifacts
+data/
+outputs/
+*.faiss
+*.bin
+*.idx
+
+# OS
+.DS_Store
+Thumbs.db
